@@ -1,2 +1,4 @@
-# vscode-settings
-VS Code settings, extensions and global snippets
+<samp>Jace's VSCode settings<br /></samp>
+
+[`.vscode/settings.json`](./.vscode/settings.json)
+

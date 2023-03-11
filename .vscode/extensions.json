@@ -1,0 +1,36 @@
+{
+	// See https://go.microsoft.com/fwlink/?LinkId=827846 to learn about workspace recommendations.
+	// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+
+	// List of extensions which should be recommended for users of this workspace.
+	"recommendations": [
+		"antfu.browse-lite",
+		"antfu.iconify",
+		"antfu.slidev",
+		"antfu.unocss",
+		"antfu.vite",
+		"antfu.where-am-i",
+
+		// theme
+		"antfu.icons-carbon",
+		"antfu.theme-vitesse",
+		"file-icons.file-icons",
+		"sainnhe.gruvbox-material",
+
+		// life savers!
+		"dbaeumer.vscode-eslint",
+		"Vue.volar",
+		"usernamehw.errorlens",
+
+		// up to you
+		"amodio.tsl-problem-matcher",
+		"eamodio.gitlens",
+		"EditorConfig.EditorConfig",
+		"mpontus.tab-cycle",
+		"naumovs.color-highlight",
+		"richie5um2.vscode-sort-json",
+		"unional.vscode-sort-package-json",
+		"voorjaar.windicss-intellisense",
+		"znck.grammarly"
+	],
+}
